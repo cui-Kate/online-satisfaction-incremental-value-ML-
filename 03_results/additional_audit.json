@@ -1,0 +1,13 @@
+{
+  "age_median": 19.0,
+  "age_quartiles": [
+    18.0,
+    20.0
+  ],
+  "near_pairs_on_22_fields": 5,
+  "holdout_rows_with_near_development_match": 0,
+  "posthoc_near_match_exclusion_n": 207,
+  "posthoc_AP_full": 0.6217709410781591,
+  "posthoc_AP_reduced": 0.45885178581672903,
+  "posthoc_delta": 0.16291915526143008
+}

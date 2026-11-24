@@ -1,0 +1,24 @@
+original_field,analysis_key,label,type
+Gender,gender,Gender,nominal
+Home Location,residence,Home location,nominal
+Level of Education,stage,Education level,nominal
+Age(Years),age,Age,numeric
+Number of Subjects,subjects,Number of subjects,numeric
+Device type used to attend classes,device,Attendance device,nominal
+Economic status,economic,Economic status,nominal
+Family size,family,Family size,numeric
+Internet facility in your locality,internet,Local internet rating,numeric
+Are you involved in any sports?,sports,Sports participation,nominal
+Do elderly people monitor you?,monitoring,Monitoring by elders,nominal
+Study time (Hours),study,Study time,numeric
+Sleep time (Hours),sleep,Sleep time,numeric
+Time spent on social media (Hours),social,Social media time,numeric
+Interested in Gaming?,gaming,Gaming interest,nominal
+Have separate room for studying?,room,Separate study room,nominal
+Engaged in group studies?,group,Group study,nominal
+Average marks scored before pandemic in traditional classroom,grades,Prior marks band,band
+Your interaction in online mode,interaction,Online interaction,numeric
+Clearing doubts with faculties in online mode,clarification,Instructor help with questions,numeric
+Interested in?,interest,Study preference,nominal
+Performance in online,performance,Self-rated online performance,numeric
+Your level of satisfaction in Online Education,outcome,Overall online satisfaction,outcome

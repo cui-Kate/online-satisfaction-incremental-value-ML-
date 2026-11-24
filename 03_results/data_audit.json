@@ -1,0 +1,49 @@
+{
+  "source_sha256": "747852bcf1a7f3a7be8a2bccc56de224649627899a8f6daa853c7b6c0056e82c",
+  "rows": 1033,
+  "columns": 23,
+  "raw_na_cells": 0,
+  "duplicate_full_rows": 0,
+  "duplicate_predictor_rows": 0,
+  "labels": {
+    "Average": 541,
+    "Good": 251,
+    "Bad": 241
+  },
+  "stage": {
+    "under graduate": 817,
+    "post graduate": 129,
+    "school": 87
+  },
+  "age_range": [
+    9,
+    40
+  ],
+  "school_age_range": [
+    9,
+    21
+  ],
+  "split_class_counts": {
+    "development": {
+      "Average": 434,
+      "Bad": 191,
+      "Good": 201
+    },
+    "holdout": {
+      "Average": 107,
+      "Bad": 50,
+      "Good": 50
+    }
+  },
+  "performance_values": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}

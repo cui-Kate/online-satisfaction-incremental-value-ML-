@@ -1,0 +1,54 @@
+[
+  {
+    "specification": "all_primary",
+    "n": 207,
+    "macro_F1": 0.5635239135836507,
+    "macro_AUROC_ovr": 0.7403224398277676,
+    "Good_AP": 0.6047220384613361,
+    "accuracy": 0.6086956521739131,
+    "train_CV_F1": 0.5720942675438497,
+    "confusion_matrix_Bad_Average_Good": [
+      [
+        23,
+        26,
+        1
+      ],
+      [
+        17,
+        83,
+        7
+      ],
+      [
+        3,
+        27,
+        20
+      ]
+    ]
+  },
+  {
+    "specification": "omit_pair",
+    "n": 207,
+    "macro_F1": 0.4022099085392061,
+    "macro_AUROC_ovr": 0.6392350735162807,
+    "Good_AP": 0.4417223141432661,
+    "accuracy": 0.5410628019323671,
+    "train_CV_F1": 0.39883186015094096,
+    "confusion_matrix_Bad_Average_Good": [
+      [
+        7,
+        42,
+        1
+      ],
+      [
+        6,
+        94,
+        7
+      ],
+      [
+        1,
+        38,
+        11
+      ]
+    ]
+  }
+]

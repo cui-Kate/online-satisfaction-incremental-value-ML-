@@ -1,0 +1,2 @@
+# Additional revision-stage contrast
+The two AP increments were already known from the preceding manuscript version. To quantify their difference, use the same stored predictions, same 207 holdout records, and the same 3,000 class-stratified row resamples for all four logistic specifications. Define the contrast as the increment without concurrent self-rated performance minus the increment with it. Report the estimate and percentile interval regardless of direction. This check is exploratory, is not a new model fit, and does not identify shared causal variance.
